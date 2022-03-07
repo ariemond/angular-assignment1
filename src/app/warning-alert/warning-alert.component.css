@@ -1,3 +1,6 @@
 .warning {
-    color: red;
+    color: #b10101;
+    border: #b10101 solid 2px;
+    padding: 10px;
+    background-color: #fa7878;
 }
